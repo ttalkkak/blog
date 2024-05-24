@@ -1,2 +1,2 @@
-# home
+# Homepage
 Github Page
