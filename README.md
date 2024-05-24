@@ -1,2 +1,2 @@
-# blog
+# home
 Github Page
